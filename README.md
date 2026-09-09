@@ -2,7 +2,7 @@
 
 # Hi, I'm Dumbtater
 
-&emsp;&emsp;Master's student at the University of Science and Technology Beijing and backend developer, focused on production-grade agent systems, reliable runtime orchestration, and evidence-driven RAG. Open-source contributor across AgentScope, Spring AI Alibaba and LangGraph4j. 
+&emsp;&emsp;Master's student at the University of Science and Technology Beijing and backend developer, focused on agent systems, reliable runtime orchestration, and evidence-driven RAG. Open-source contributor across AgentScope, Spring AI Alibaba and LangGraph4j. 
 
 
 </div>
