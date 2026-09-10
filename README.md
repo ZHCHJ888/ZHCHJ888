@@ -53,7 +53,7 @@ Contributions centered on production reliability, protocol edge cases, and Java 
   </tr>
   <tr>
     <td><a href="#representative-work">Upstream Author Commits</a></td>
-    <td align="center"><b>2+</b></td>
+    <td align="center"><b>3</b></td>
     <td>Landed with author credit</td>
   </tr>
   <tr>
