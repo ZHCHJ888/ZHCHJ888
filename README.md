@@ -47,9 +47,14 @@ Contributions centered on production reliability, protocol edge cases, and Java 
     <th>Signal</th>
   </tr>
   <tr>
-    <td><a href="#representative-work">Merged / Accepted Upstream PRs</a></td>
-    <td align="center"><b>7</b></td>
-    <td>Merged, incorporated</td>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AZHCHJ888+-user%3AZHCHJ888+is%3Amerged&type=pullrequests">Merged Upstream PRs</a></td>
+    <td align="center"><b>8</b></td>
+    <td>Merged on GitHub</td>
+  </tr>
+  <tr>
+    <td><a href="#representative-work">Upstream Author Commits</a></td>
+    <td align="center"><b>2+</b></td>
+    <td>Landed with author credit</td>
   </tr>
   <tr>
     <td><a href="https://github.com/search?q=is%3Apr+author%3AZHCHJ888+-user%3AZHCHJ888+is%3Aopen&type=pullrequests">Open PRs Awaiting Review</a></td>
@@ -82,7 +87,7 @@ A compact map of the upstream problems I have worked on and the engineering valu
   <tr>
     <td><b>AgentScope</b></td>
     <td>Improved DashScope model routing and reasoning-token accounting; also addressed AG-UI message lifecycle conflicts in interleaved text, reasoning, and tool-call streams.</td>
-    <td><a href="https://github.com/agentscope-ai/agentscope-java/pull/2987">Merged #2987</a> · <a href="https://github.com/agentscope-ai/agentscope-java/pull/3009">Merged #3009</a> · <a href="https://github.com/agentscope-ai/agentscope-java/pull/3010">Approved #3010</a></td>
+    <td><a href="https://github.com/agentscope-ai/agentscope-java/pull/2987">Merged #2987</a> · <a href="https://github.com/agentscope-ai/agentscope-java/pull/3009">Merged #3009</a> · <a href="https://github.com/agentscope-ai/agentscope-java/pull/3010">Merged #3010</a></td>
   </tr>
   <tr>
     <td><b>Spring AI Alibaba</b></td>
